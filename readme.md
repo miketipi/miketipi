@@ -9,5 +9,10 @@
 
 💬 Ask me about **backend development & databases**  
 
+
+![GitHub followers](https://img.shields.io/github/followers/miketipi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/miketipi?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/miketipi/your-repo)
+![Profile views](https://komarev.com/ghpvc/?username=miketipi&color=blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketipi)](https://github.com/miketipi/github-readme-stats)
 ![Miketipi's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketipi)
