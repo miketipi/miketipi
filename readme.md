@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Phuc Vo]!
+# 👋 Hello, I'm Phuc Vo!
 🔭 I’m currently working as a **Backend Developer**
 🌱 I’m currently learning **Java, Spring Boot, React**  
 👯 I’m looking to collaborate on **open-source projects**  
