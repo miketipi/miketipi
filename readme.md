@@ -13,8 +13,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/miketipi?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=miketipi&color=blue)
 ![MikeTipi GitHub stats](https://github-readme-stats.vercel.app/api?username=miketipi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?miketipi=miketipi&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?miketipi=miketipi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketipi&layout=compact&theme=tokyonight)
+
 
 
 
